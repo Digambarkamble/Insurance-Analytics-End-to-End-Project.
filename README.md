@@ -54,15 +54,12 @@ Payment status analysis-moniter premium collection effectiveness
 * Improve follow-up on stalled opportunities.
 * Strengthen claim and payment monitoring processes
 
-## 📁 Project Presentation
-[Download Full Project PPT](Insurance_Analytics_DA_PPT.pdf)
+## 📁 Project Resources
 
-# Insurance Claims Analytics
+### 📊 Presentation
+[📄 Download Full Project PPT](Insurance%20Analytics%20DA%20PPT.pdf)
 
-## 📊 Dashboard
-![Dashboard](images/dashboard.png)
-![Key Insights](images/key_insights.png)
-
-## 📁 Resources
-- [Project Presentation PDF](Insurance_Analytics_DA_PPT.pdf)
-- [SQL Queries](sql/claims_analysis.sql)
+### 📊 Sample Data
+- [Individual Budgets](Individual%20Budgets.xlsx)
+- [Opportunity Data](Opportunity.xlsx)
+- [Brokerage Data](brokerage.xlsx)
