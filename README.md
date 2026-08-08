@@ -54,5 +54,5 @@ Payment status analysis-moniter premium collection effectiveness
 * Improve follow-up on stalled opportunities.
 * Strengthen claim and payment monitoring processes
 
-## Screenshots
-
+## 📁 Project Presentation
+[Download Full Project PPT](Insurance_Analytics_DA_PPT.pdf)
