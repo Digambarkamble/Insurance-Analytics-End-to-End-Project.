@@ -43,6 +43,10 @@ Create an interactive dashboard that provides actionable insights for branch hea
 
 ### 📊 Presentation
 [📄 Download Full Project PPT](Insurance%20Analytics%20DA%20PPT.pdf)
+    Screenshot_20260808-105255.p...  →  excel_dashboard.png
+    Screenshot_20260808-105301.p...  →  powerbi_dashboard.png
+    Screenshot_20260808-105306.p...  →  tableau_dashboard.png
+    Screenshot_20260808-105311.p...  →  mysql_query.png
 
 ### 📊 Sample Data
 - [Individual Budgets](Individual%20Budgets.xlsx)
