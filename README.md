@@ -18,9 +18,7 @@ customer trends claims and business growth using insurance data
 
 ## Goal
 *create interactive dashboard that provide actionable insight for 
-branch head and manegement.
-
-## Dataset Information
+branch head and manegement
 
 ## Data Cleaning & Preprocessing
 *Remove duplicate
@@ -57,8 +55,6 @@ Payment status analysis-moniter premium collection effectiveness
 * Replicate strategies of top-performing account executives.
 * Improve follow-up on stalled opportunities.
 * Strengthen claim and payment monitoring processes
-
-## Project Folder Structure
 
 ## Screenshots
 
