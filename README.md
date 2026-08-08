@@ -36,16 +36,29 @@ branch head and manegement.
 *premium growth rate-measure premium revinue growth over time 
 *Total clame amount - track the financial impact of claim 
 *claim status analyse- Evaluate claim process efficiency 
-Payment status analysis-moniter premium collection ecfectivness
+Payment status analysis-moniter premium collection effectiveness
 
 ## Dashboard Overview
 
 ## Key Business Insights
 
-## Business Recommendations
+*INSURANCE ANALYTICS*
+
+*Key Business Insights*
+* Renewal business exceeded target, indicating strong customer retention.
+* Some account executives generated significantly higher invoice revenue.
+* High-value open opportunities remain in the pipeline.
+* Certain policy types dominate customer demand.
+* Policies expiring this year represent immediate renewal opportunities.
+
+*Recommendations*
+* Focus on converting high-value open opportunities.
+* Increase engagement with customers approaching renewal.
+* Replicate strategies of top-performing account executives.
+* Improve follow-up on stalled opportunities.
+* Strengthen claim and payment monitoring processes
 
 ## Project Folder Structure
 
 ## Screenshots
 
-## Author
