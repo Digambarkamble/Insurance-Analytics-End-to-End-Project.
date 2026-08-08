@@ -13,13 +13,15 @@ To analyze branch performance, policy performance, customer trends, claims, and 
 ## 📈 Dashboard Overview
 ## 📈 Dashboard Overview
 
-| Excel Dashboard | Power BI Dashboard |
-| --- | --- |
-| ![Excel](images/Branch%20dashboard%20Excel.png) | ![PowerBI](images/Branch%20dashboard%20power%20bi.png) |
+<div align="center">
 
-| Tableau Dashboard | MySQL Query Results |
-| --- | --- |
-| ![Tableau](images/Branch%20dashboard%20tableau.png) | ![MySQL](images/my%20sql_query.png) |
+<img src="images/Branch%20dashboard%20Excel.png" width="400"/>
+<img src="images/Branch%20dashboard%20power%20bi.png" width="400"/>
+
+<img src="images/Branch%20dashboard%20tableau.png" width="400"/>
+<img src="images/my%20sql_query.png" width="400"/>
+
+</div>
 
 ## 💡 Key Business Insights
 - Renewal business exceeded target, indicating strong customer retention
