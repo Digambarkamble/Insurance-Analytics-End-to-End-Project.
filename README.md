@@ -56,3 +56,13 @@ Payment status analysis-moniter premium collection effectiveness
 
 ## 📁 Project Presentation
 [Download Full Project PPT](Insurance_Analytics_DA_PPT.pdf)
+
+# Insurance Claims Analytics
+
+## 📊 Dashboard
+![Dashboard](images/dashboard.png)
+![Key Insights](images/key_insights.png)
+
+## 📁 Resources
+- [Project Presentation PDF](Insurance_Analytics_DA_PPT.pdf)
+- [SQL Queries](sql/claims_analysis.sql)
