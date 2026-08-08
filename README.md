@@ -11,17 +11,13 @@ To analyze branch performance, policy performance, customer trends, claims, and 
 - **Total Claim Amount**: Tracks financial impact of claims
 
 ## 📈 Dashboard Overview
-## 📈 Dashboard Overview
-
-<div align="center">
-
-<img src="images/Branch%20dashboard%20Excel.png" width="400"/>
-<img src="images/Branch%20dashboard%20power%20bi.png" width="400"/>
-
-<img src="images/Branch%20dashboard%20tableau.png" width="400"/>
-<img src="images/my%20sql_query.png" width="400"/>
-
-</div>
+<p align="center">
+  <img src="./Image_Images/Branch%20dashboard%20Excel.png" width="45%" />
+  <img src="./Image_Images/Branch%20dashboard%20power%20bi.png" width="45%" />
+  <br/>
+  <img src="./Image_Images/Branch%20dashboard%20tableau.png" width="45%" />
+  <img src="./Image_Images/my%20sql_query.png" width="45%" />
+</p>
 
 ## 💡 Key Business Insights
 - Renewal business exceeded target, indicating strong customer retention
