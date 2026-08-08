@@ -1,8 +1,6 @@
-# Insurance-Analytics-End-to-End-Project.
-The Insurance Analytics project is an end-to-end solution that helps an insurance company track performance and improve decision-making by unifying data across key business functions.
-# Insurance Analytics | End-to-End Data Analyst Project
+# Insurance-Analytics-End-to-End-Data Analyst Project
 
-## Project Description
+The Insurance Analytics project is an end-to-end solution that helps an insurance company track performance and improve decision-making by unifying data across key business functions.
 
 ## Business Problem
 The insurance company wanted a centralised dashbord to
