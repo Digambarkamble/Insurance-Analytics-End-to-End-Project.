@@ -15,7 +15,7 @@ To analyze branch performance, policy performance, customer trends, claims, and 
 - Some account executives generated significantly higher invoice revenue
 - High-value open opportunities remain in the pipeline
 
-## 📁 Project Resources
+## 📁 Project resorses 
 ### 📊 Sample Data Files
 - [Individual Budgets](Individual%20Budgets.xlsx)
 - [Opportunity Data](Opportunity.xlsx)
@@ -23,6 +23,16 @@ To analyze branch performance, policy performance, customer trends, claims, and 
 - [Fees Data](fees.xlsx)
 - [Invoice Data](invoice.xlsx)
 - [Meeting Data](meeting.xlsx)
+
+  ## 📊 Dashboards
+
+| Power BI Dashboard | Excel Dashboard |
+| --- | --- |
+| ![PowerBI](./powerbi_dashboard.png) | ![Excel](./excel_dashboard.png) |
+
+| Tableau Dashboard | MySQL Dashboard |
+| --- | --- |
+| ![Tableau](./tableau_dashboard.png) | ![MySQL](./mysql_dashboard.png) |
 
 ## 🔧 Tech Stack
 `Excel` | `Power BI` | `Tableau` | `MySQL` | `Python`
