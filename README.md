@@ -30,7 +30,11 @@ To analyze branch performance, policy performance, customer trends, claims, and 
 - **Highest Claims**: Motor Insurance me 38% claim ratio hai
 - **Agent Performance**: Top 10 agents 45% total business laate hain
 - **Opportunity**: Health insurance me 20% growth potential hai
+| ![PowerBI](./powerbi_dashboard.png) | ![Excel](./excel_dashboard.png) |
+| *Branch KPIs & Revenue* | *Claims & Policy Analysis* |
 
+| ![Tableau](./tableau_dashboard.png) | ![MySQL](./mysql_dashboard.png) |
+| *Interactive Branch Dashboard* | *SQL Query Results* |
   ## 📊 Dashboards
 
 | Power BI Dashboard | Excel Dashboard |
