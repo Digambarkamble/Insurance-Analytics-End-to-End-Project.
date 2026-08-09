@@ -24,6 +24,13 @@ To analyze branch performance, policy performance, customer trends, claims, and 
 - [Invoice Data](invoice.xlsx)
 - [Meeting Data](meeting.xlsx)
 
+  ## 📈 Key Insights
+
+- **Top Performing Branch**: Mumbai branch ne 24% revenue generate kiya
+- **Highest Claims**: Motor Insurance me 38% claim ratio hai
+- **Agent Performance**: Top 10 agents 45% total business laate hain
+- **Opportunity**: Health insurance me 20% growth potential hai
+
   ## 📊 Dashboards
 
 | Power BI Dashboard | Excel Dashboard |
@@ -36,3 +43,8 @@ To analyze branch performance, policy performance, customer trends, claims, and 
 
 ## 🔧 Tech Stack
 `Excel` | `Power BI` | `Tableau` | `MySQL` | `Python`
+
+## 📽️ Project Presentation
+
+Complete project walkthrough:
+📊 [Download PPT](./Insurance%20Analytics%20DA%20PPT.pdf)
