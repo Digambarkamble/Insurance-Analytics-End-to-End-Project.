@@ -31,24 +31,18 @@ To analyze branch performance, policy performance, customer trends, claims, and 
 - **Agent Performance**: Top 10 agents 45% total business laate hain
 - **Opportunity**: Health insurance me 20% growth potential hai
 | ![PowerBI](./powerbi_dashboard.png) | ![Excel](./excel_dashboard.png) |
+
+## 📊 Dashboards
+
 | *Branch KPIs & Revenue* | *Claims & Policy Analysis* |
 
 | ![Tableau](./tableau_dashboard.png) | ![MySQL](./mysql_dashboard.png) |
 | *Interactive Branch Dashboard* | *SQL Query Results* |
-  ## 📊 Dashboards
 
-| Power BI Dashboard | Excel Dashboard |
-| --- | --- |
-| ![PowerBI](./powerbi_dashboard.png) | ![Excel](./excel_dashboard.png) |
-
-| Tableau Dashboard | MySQL Dashboard |
-| --- | --- |
-| ![Tableau](./tableau_dashboard.png) | ![MySQL](./mysql_dashboard.png) |
 
 ## 🔧 Tech Stack
 `Excel` | `Power BI` | `Tableau` | `MySQL` | `Python`
 
 ## 📽️ Project Presentation
+📊 [Download Full Project Presentation](./Insurance%20Analytics%20DA%20PPT.pdf)
 
-Complete project walkthrough:
-📊 [Download PPT](./Insurance%20Analytics%20DA%20PPT.pdf)
